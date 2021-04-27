@@ -1,13 +1,13 @@
 <?php
-namespace Yoma\DefaultPayment\Model;
+namespace Hawksama\DefaultPayment\Model;
 
 use Magento\Checkout\Model\ConfigProviderInterface;
 use Magento\Store\Model\StoreManagerInterface;
-use Yoma\DefaultPayment\Helper\Data;
+use Hawksama\DefaultPayment\Helper\Data;
 
 /**
  * Class DefaultPaymentConfigProvider
- * @package Yoma\DefaultPayment\Model
+ * @package Hawksama\DefaultPayment\Model
  */
 class DefaultPaymentConfigProvider implements ConfigProviderInterface
 {

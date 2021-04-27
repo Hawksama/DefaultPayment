@@ -1,13 +1,13 @@
 <?php
 
-namespace Yoma\DefaultPayment\Helper;
+namespace Hawksama\DefaultPayment\Helper;
 
 use Magento\Framework\App\Helper\AbstractHelper;
 use Magento\Store\Model\ScopeInterface;
 
 /**
  * Class Data
- * @package Yoma\DefaultPayment\Helper
+ * @package Hawksama\DefaultPayment\Helper
  */
 class Data extends AbstractHelper
 {

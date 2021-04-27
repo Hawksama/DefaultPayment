@@ -1,6 +1,6 @@
 <?php
 
-namespace Yoma\DefaultPayment\Model\Config\Source;
+namespace Hawksama\DefaultPayment\Model\Config\Source;
 
 use Magento\Framework\App\RequestInterface;
 use Magento\Framework\Data\OptionSourceInterface;
@@ -8,7 +8,7 @@ use Magento\Payment\Api\PaymentMethodListInterface;
 
 /**
  * Class PaymentOptions
- * @package Yoma\DefaultPayment\Model\Config\Source
+ * @package Hawksama\DefaultPayment\Model\Config\Source
  */
 class PaymentOptions implements OptionSourceInterface
 {

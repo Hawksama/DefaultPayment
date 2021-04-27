@@ -10,7 +10,7 @@
                 <field id="default_method" translate="label" type="select" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
                     <label>Default Payment Method</label>
                     <comment>Custom configuration regarding payment step.</comment>
-                    <source_model>\Yoma\DefaultPayment\Model\Config\Source\PaymentOptions</source_model>
+                    <source_model>\Hawksama\DefaultPayment\Model\Config\Source\PaymentOptions</source_model>
                 </field>
             </group>
         </section>

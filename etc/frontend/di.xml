@@ -5,7 +5,7 @@
     <type name="Magento\Checkout\Model\CompositeConfigProvider">
         <arguments>
             <argument name="configProviders" xsi:type="array">
-                <item name="yoma_default_payment" xsi:type="object">Yoma\DefaultPayment\Model\DefaultPaymentConfigProvider</item>
+                <item name="hawksama_default_payment" xsi:type="object">Hawksama\DefaultPayment\Model\DefaultPaymentConfigProvider</item>
             </argument>
         </arguments>
     </type>
